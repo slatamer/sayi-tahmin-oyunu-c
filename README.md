@@ -13,10 +13,10 @@ Bu proje, C programlama dili kullanılarak geliştirilmiş eğlenceli bir sayı 
 * **IDE:** Visual Studio 2022
 * **Konseptler:** Kontrol yapıları (do-while, if-else), döngüler, rastgele sayı üretimi (stdlib.h, time.h), matematiksel fonksiyonlar (math.h).
 * 
-## 🛠️ Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır?
 1. .sln dosyasını bir C derleyicisi (Örn: Visual Studio, Dev-C++, GCC) kullanarak açın.
 2. `main.c` dosyasını derleyin ve çalıştırın.
 3. Uygulamayı çalıştırarak 1-10 arasındaki gizli sayıları tahmin etmeye başlayabilirsiniz.
 
-## 📝 Notlar
+## Notlar
 Bu proje `conio.h` kütüphanesini kullandığı için Windows ortamında (Visual Studio vb.) çalıştırılmak üzere tasarlanmıştır.
